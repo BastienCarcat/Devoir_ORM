@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devoir_ORM.ORM", "..\..\..\..\..\..\source\repos\Devoir_ORM\Devoir_ORM\Devoir_ORM.ORM.csproj", "{0DD8DB73-524D-4538-808C-912F9040B982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devoir_ORM.console", "..\..\..\..\..\..\source\repos\Devoir_ORM\Devoir_ORM.console\Devoir_ORM.console.csproj", "{C0CB0439-4B85-4F05-8D22-677E8981D968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD8DB73-524D-4538-808C-912F9040B982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD8DB73-524D-4538-808C-912F9040B982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD8DB73-524D-4538-808C-912F9040B982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD8DB73-524D-4538-808C-912F9040B982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CB0439-4B85-4F05-8D22-677E8981D968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CB0439-4B85-4F05-8D22-677E8981D968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CB0439-4B85-4F05-8D22-677E8981D968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CB0439-4B85-4F05-8D22-677E8981D968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D342C1-B801-46FB-AE9F-EE4B623FADC4}
+	EndGlobalSection
+EndGlobal
